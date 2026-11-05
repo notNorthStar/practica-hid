@@ -1,0 +1,23 @@
+===========================================================
+ PRÁCTICA DE CIBERSEGURIDAD — INYECCIÓN HID (BadUSB)
+===========================================================
+
+Si estás leyendo esto, significa que:
+
+  1. El Digispark se identificó como teclado (HID) al conectarse.
+  2. Tecleó automáticamente un comando en tu máquina.
+  3. Ese comando descargó este archivo desde GitHub y lo abrió.
+
+Todo el flujo fue INOFENSIVO: solo se descargó y mostró un .txt.
+
+-----------------------------------------------------------
+ ¿Por qué importa?
+-----------------------------------------------------------
+
+Un atacante podría usar la misma técnica para teclear comandos
+dañinos en segundos. Por eso NUNCA debes conectar dispositivos
+USB de origen desconocido a tu equipo.
+
+-----------------------------------------------------------
+ Demostración completada con éxito. ✔
+-----------------------------------------------------------
